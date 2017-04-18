@@ -7,7 +7,3 @@ function flatten(arrays) {
 function platten(name) {
 	alert(name);
 }
-
-function getDate(name) {
-	alert(name);
-}
